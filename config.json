@@ -1,6 +1,9 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"nitea",
+    "subTitle":"initea的博客",
+    "avatarUrl":"https://avatars.githubusercontent.com/u/175487178?v=4",
+    "GMEEK_VERSION":"last",
+    "i18n":"CN",
+    "UTC":8,
+    "startSite":"09/15/2024"
 }
